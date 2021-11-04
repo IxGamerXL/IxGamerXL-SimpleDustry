@@ -4,6 +4,7 @@
     author: "[yellow]IxGamerXL[]"
     description: "Hides most blocks from your block selection. This is multiplayer supported, but for a more confined gameplay, you may want to play on Singleplayer/Campaign."
     version: "1.0.0"
+    repo: "IxGamerXL/IxGamerXL-SimpleDustry"
     minGameVersion: "126.2"
     hidden: true
 }
